@@ -1,0 +1,2 @@
+# screensaver_blocker
+キーボードの右矢印キーを押すだけのプログラム
